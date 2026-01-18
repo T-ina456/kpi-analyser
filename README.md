@@ -63,3 +63,9 @@ frontend/
 ├── public/
 ├── package.json
 └── package-lock.json
+
+## 🌐 Live Demo
+Frontend: https://kpi-analyser.vercel.app  
+Backend API: https://kpi-analyser-backend.onrender.com/api/health
+
+
